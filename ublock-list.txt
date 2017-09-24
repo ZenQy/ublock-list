@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! title: 自用ublock过滤规则
+! Version: 20170924
+! Expires: 2 days
+! Homepage: https://gitee.com/ZenQy/ublock-list
+! 开源中国
+oschina.net##div[class*=-ad]
+oschina.net##div[class*=_ad]
+||my.oschina.net/img/hot3.png$image
+! 斗鱼
+www.douyu.com##div[class*=-ad]
+www.douyu.com###js-recommand
