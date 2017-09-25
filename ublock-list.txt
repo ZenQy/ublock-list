@@ -6,7 +6,16 @@
 ! 开源中国
 oschina.net##div[class*=-ad]
 oschina.net##div[class*=_ad]
+oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
 ||my.oschina.net/img/hot3.png$image
 ! 斗鱼
 www.douyu.com##div[class*=-ad]
 www.douyu.com###js-recommand
+! B站
+bilibili.com###index_container > span[data-ad-type="banner"]
+! golang中国
+golangtc.com###ads
+! 草榴
+t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
+! dota闪电战
+sinaimg.cn/large/*.gif
