@@ -10,6 +10,7 @@ oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
 ||my.oschina.net/img/hot3.png$image
 ! 码云
 gitee.com##.ver-3.ent-poster.dashboard
+gitee.com##.ver-3.user.ent-poster
 gitee.com##.gitee-stars-banner
 gitee.com##.ver-3.project.ent-poster
 gitee.com##.float-left-box
