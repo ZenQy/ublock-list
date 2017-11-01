@@ -11,6 +11,8 @@ oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
 ! 码云
 gitee.com##.ver-3.ent-poster.dashboard
 gitee.com##.gitee-stars-banner
+gitee.com##.ver-3.project.ent-poster
+gitee.com##.float-left-box
 ! 斗鱼
 www.douyu.com##div[class*=-ad]
 www.douyu.com###js-recommand
@@ -22,3 +24,9 @@ golangtc.com###ads
 t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
 ! dota闪电战
 sinaimg.cn/large/*.gif
+! 其他
+www.mintos.org##.g-main.g-single-main
+
+
+
+
