@@ -34,7 +34,4 @@ www.pc6.com###topbanner2
 www.shaoit.com###sidebar
 www.codegist.net##.mgbox
 linux.cn##.linuxcnad
-
-
-
-
+blog.sina.com.cn^$inline-script
