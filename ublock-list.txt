@@ -19,14 +19,21 @@ www.douyu.com##div[class*=-ad]
 www.douyu.com###js-recommand
 ! B站
 bilibili.com###index_container > span[data-ad-type="banner"]
+www.bilibili.com##.clearfix.live-module > .gg-floor-module
 ! golang中国
 golangtc.com###ads
+golangtc.com##.bar
 ! 草榴
 t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
 ! dota闪电战
 sinaimg.cn/large/*.gif
 ! 其他
 www.mintos.org##.g-main.g-single-main
+fund.10jqka.com.cn###block_3947 > .ad-panel
+www.pc6.com###topbanner2
+www.shaoit.com###sidebar
+www.codegist.net##.mgbox
+linux.cn##.linuxcnad
 
 
 
