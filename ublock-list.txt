@@ -6,6 +6,7 @@
 ! 开源中国
 oschina.net##div[class*=-ad]
 oschina.net##div[class*=_ad]
+oschina.net##div[data-traceid*=_ad]
 oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
 ||my.oschina.net/img/hot3.png$image
 ! 码云
