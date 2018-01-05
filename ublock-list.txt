@@ -32,7 +32,6 @@ sinaimg.cn/large/*.gif
 www.mintos.org##.g-main.g-single-main
 fund.10jqka.com.cn###block_3947 > .ad-panel
 www.pc6.com###topbanner2
-www.shaoit.com###sidebar
 www.codegist.net##.mgbox
 linux.cn##.linuxcnad
 blog.sina.com.cn^$inline-script
