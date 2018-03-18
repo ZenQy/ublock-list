@@ -18,6 +18,7 @@ gitee.com##.ver-3.project.ent-poster
 gitee.com##.float-left-box
 ! 斗鱼
 www.douyu.com##div[class*=-ad]
+www.douyu.com##div[class^=adsRoot_]
 www.douyu.com###js-recommand
 ! B站
 bilibili.com###index_container > span[data-ad-type="banner"]
