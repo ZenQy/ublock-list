@@ -21,8 +21,7 @@ www.douyu.com##div[class*=-ad]
 www.douyu.com##div[class^=adsRoot_]
 www.douyu.com###js-recommand
 ! B站
-bilibili.com###index_container > span[data-ad-type="banner"]
-www.bilibili.com##.clearfix.live-module > .gg-floor-module
+bilibili.com##div[class*="video-top-ad"]
 ! golang中国
 golangtc.com###ads
 golangtc.com##.bar
