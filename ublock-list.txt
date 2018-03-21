@@ -37,3 +37,4 @@ www.codegist.net##.mgbox
 linux.cn##.linuxcnad
 blog.sina.com.cn^$inline-script
 apta.gov.cn###codefans_net
+shicimingju.com##.www-shadow-card.ddd-div
