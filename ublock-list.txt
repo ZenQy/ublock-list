@@ -38,3 +38,4 @@ linux.cn##.linuxcnad
 blog.sina.com.cn^$inline-script
 apta.gov.cn###codefans_net
 shicimingju.com##.www-shadow-card.ddd-div
+91porn.com##tr:nth-of-type(2) > td > table
