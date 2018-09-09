@@ -1,14 +1,16 @@
 [Adblock Plus 2.0]
 ! title: 自用ublock过滤规则
-! Version: 20170924
+! Version: 20180909
 ! Expires: 2 days
 ! Homepage: https://gitee.com/ZenQy/ublock-list
+
 ! 开源中国
 oschina.net##div[class*=-ad]
 oschina.net##div[class*=_ad]
 oschina.net##div[data-traceid*=_ad]
 oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
 ||my.oschina.net/img/hot3.png$image
+
 ! 码云
 gitee.com##.ver-3.ent-poster.dashboard
 gitee.com##.ver-3.user.ent-poster
@@ -16,24 +18,40 @@ gitee.com##.user.ent-poster
 gitee.com##.gitee-stars-banner
 gitee.com##.ver-3.project.ent-poster
 gitee.com##.float-left-box
+
 ! 斗鱼
-www.douyu.com##div[class*=-ad]
-www.douyu.com##div[class^=adsRoot_]
-www.douyu.com###js-recommand
+douyu.com##div[class*=-ad]
+douyu.com##div[class^=adsRoot_]
+douyu.com###js-recommand
+douyu.com##.listcustomize-mod.player_zb.player-column
+douyu.com###gift-content
+douyu.com##.luckDraw_bg-b94a06
+douyu.com##.summer_gift_detail
+douyu.com###canyonRace
+douyu.com###sharkNote
+
 ! B站
 bilibili.com##div[class*="video-top-ad"]
+bilibili.com###slide_ad
+
 ! golang中国
 golangtc.com###ads
 golangtc.com##.bar
+
 ! 草榴
 t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
+
 ! 其他
 www.mintos.org##.g-main.g-single-main
 fund.10jqka.com.cn###block_3947 > .ad-panel
 www.pc6.com###topbanner2
 www.codegist.net##.mgbox
 linux.cn##.linuxcnad
+linux.cn###LmNHCisOsS
 blog.sina.com.cn^$inline-script
 apta.gov.cn###codefans_net
 shicimingju.com##.www-shadow-card.ddd-div
-91porn.com##tr:nth-of-type(2) > td > table
+||dota.shandian.biz/a/guga.js
+
+! 白名单
+@@.tc.qq.com
