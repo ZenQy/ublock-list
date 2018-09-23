@@ -37,6 +37,12 @@ bilibili.com###slide_ad
 ! golang中国
 golangtc.com###ads
 golangtc.com##.bar
+! 678辅助网
+678cn.com##.ibtad
+678cn.com##.mb20.ad-box
+678cn.com##.top_ad
+678cn.com###iautobox > div.con-left > p
+zn50.com##.a_mu
 
 ! 草榴
 t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
