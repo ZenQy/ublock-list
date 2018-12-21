@@ -1,63 +1,64 @@
 [Adblock Plus 2.0]
 ! title: 自用ublock过滤规则
-! Version: 20180909
+! Version: 20181221
 ! Expires: 2 days
 ! Homepage: https://gitee.com/ZenQy/ublock-list
 
-! 开源中国
-oschina.net##div[class*=-ad]
-oschina.net##div[class*=_ad]
-oschina.net##div[data-traceid*=_ad]
-oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
-||my.oschina.net/img/hot3.png$image
-
-! 码云
-gitee.com##.ver-3.ent-poster.dashboard
-gitee.com##.ver-3.user.ent-poster
-gitee.com##.user.ent-poster
-gitee.com##.gitee-stars-banner
-gitee.com##.ver-3.project.ent-poster
-gitee.com##.float-left-box
-
-! 斗鱼
-douyu.com##div[class*=-ad]
-douyu.com##div[class^=adsRoot_]
-douyu.com###js-recommand
-douyu.com##.listcustomize-mod.player_zb.player-column
-douyu.com###gift-content
-douyu.com##.luckDraw_bg-b94a06
-douyu.com##.summer_gift_detail
-douyu.com###canyonRace
-douyu.com###sharkNote
-
-! B站
-bilibili.com##div[class*="video-top-ad"]
-bilibili.com###slide_ad
-
-! golang中国
-golangtc.com###ads
-golangtc.com##.bar
-! 678辅助网
+678cn.com###iautobox > div.con-left > p
 678cn.com##.ibtad
 678cn.com##.mb20.ad-box
 678cn.com##.top_ad
-678cn.com###iautobox > div.con-left > p
+
+@@.tc.qq.com
+
+apta.gov.cn###codefans_net
+
+bilibili.com###slide_ad
+bilibili.com##div[class*="video-top-ad"]
+
+blog.sina.com.cn^$inline-script
+
+douyu.com###canyonRace
+douyu.com###gift-content
+douyu.com###js-recommand
+douyu.com###sharkNote
+douyu.com##.listcustomize-mod.player_zb.player-column
+douyu.com##.luckDraw_bg-b94a06
+douyu.com##.summer_gift_detail
+douyu.com##div[class*=-ad]
+douyu.com##div[class^=adsRoot_]
+
+fund.10jqka.com.cn###block_3947 > .ad-panel
+
+gitee.com##.float-left-box
+gitee.com##.gitee-stars-banner
+gitee.com##.user.ent-poster
+gitee.com##.ver-3.ent-poster.dashboard
+gitee.com##.ver-3.project.ent-poster
+gitee.com##.ver-3.user.ent-poster
+
+golangtc.com###ads
+golangtc.com##.bar
+
+linux.cn###LmNHCisOsS
+linux.cn##.linuxcnad
+
+oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
+oschina.net##div[class*=-ad]
+oschina.net##div[class*=_ad]
+oschina.net##div[data-traceid*=_ad]
+oschina.net/img/hot3.png$image
+
+shicimingju.com##.www-shadow-card.ddd-div
+
+www.codegist.net##.mgbox
+
+www.laomoit.com###sidebar
+www.laomoit.com##.entry_box_s > .context+a
+
+www.mintos.org##.g-main.g-single-main
+
+www.pc6.com###topbanner2
 zn50.com##.a_mu
 
-! 草榴
-t66y.com##.t2.t:nth-of-type(3) > table > tbody > .do_not_catch.tr1 > th:nth-of-type(2) > table > tbody > tr > td > .tips
-
-! 其他
-www.mintos.org##.g-main.g-single-main
-fund.10jqka.com.cn###block_3947 > .ad-panel
-www.pc6.com###topbanner2
-www.codegist.net##.mgbox
-linux.cn##.linuxcnad
-linux.cn###LmNHCisOsS
-blog.sina.com.cn^$inline-script
-apta.gov.cn###codefans_net
-shicimingju.com##.www-shadow-card.ddd-div
-||dota.shandian.biz/a/guga.js
-
-! 白名单
-@@.tc.qq.com
+dota.shandian.biz/a/guga.js
