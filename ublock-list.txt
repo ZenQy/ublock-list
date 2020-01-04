@@ -1,15 +1,17 @@
 [Adblock Plus 2.0]
 ! title: 自用ublock过滤规则
-! Version: 20181221
+! Version: 20200104
 ! Expires: 2 days
 ! Homepage: https://gitee.com/ZenQy/ublock-list
 
-678cn.com###iautobox > div.con-left > p
+! 白名单
+@@.tc.qq.com
+@@csdnimg.cn
+
 678cn.com##.ibtad
 678cn.com##.mb20.ad-box
 678cn.com##.top_ad
-
-@@.tc.qq.com
+678cn.com###iautobox > div.con-left > p
 
 apta.gov.cn###codefans_net
 
@@ -18,15 +20,24 @@ bilibili.com##div[class*="video-top-ad"]
 
 blog.sina.com.cn^$inline-script
 
+cn.vuejs.org##.ad-pagetop
+cn.vuejs.org###ad
+
+dota.shandian.biz/a/guga.js
+
+douyu.com##.listcustomize-mod.player_zb.player-column
+douyu.com##.luckDraw_bg-b94a06
+douyu.com##.summer_gift_detail
 douyu.com###canyonRace
 douyu.com###gift-content
 douyu.com###js-recommand
 douyu.com###sharkNote
-douyu.com##.listcustomize-mod.player_zb.player-column
-douyu.com##.luckDraw_bg-b94a06
-douyu.com##.summer_gift_detail
 douyu.com##div[class*=-ad]
 douyu.com##div[class^=adsRoot_]
+douyu.com###js-room-activity
+douyu.com##div[class*="answerPreview-"]
+
+flysnow.org##div[style="text-align: center;margin-top: 10px;"]
 
 fund.10jqka.com.cn###block_3947 > .ad-panel
 
@@ -37,28 +48,35 @@ gitee.com##.ver-3.ent-poster.dashboard
 gitee.com##.ver-3.project.ent-poster
 gitee.com##.ver-3.user.ent-poster
 
-golangtc.com###ads
 golangtc.com##.bar
+golangtc.com###ads
 
-linux.cn###LmNHCisOsS
 linux.cn##.linuxcnad
+linux.cn###LmNHCisOsS
 
-oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
-oschina.net##div[class*=-ad]
-oschina.net##div[class*=_ad]
-oschina.net##div[data-traceid*=_ad]
+my.oschina.net##.article-detail > .ad-wrap
 oschina.net/img/hot3.png$image
+oschina.net##div.editor-viewer.text.clear > p[style="margin:0 0 10px 0;"]
+oschina.net##div[class*=_ad]
+oschina.net##div[class*=-ad]
+oschina.net##div[data-traceid*=_ad]
 
 shicimingju.com##.www-shadow-card.ddd-div
 
+www.appinn.com##.custom-html-widget.textwidget
 www.codegist.net##.mgbox
 
-www.laomoit.com###sidebar
 www.laomoit.com##.entry_box_s > .context+a
+www.laomoit.com###sidebar
 
 www.mintos.org##.g-main.g-single-main
 
 www.pc6.com###topbanner2
-zn50.com##.a_mu
 
-dota.shandian.biz/a/guga.js
+www.youtube.com##.ytp-ad-image-overlay
+www.youtube.com##.ytp-ad-module.video-ads
+www.youtube.com##.ytp-ad-overlay-container
+
+www.zhihu.com##div.TopstoryItem-isRecommend.TopstoryItem--advertCard.TopstoryItem.Card > .Pc-feedAd-container
+
+zn50.com##.a_mu
