@@ -73,10 +73,6 @@ www.mintos.org##.g-main.g-single-main
 
 www.pc6.com###topbanner2
 
-www.youtube.com##.ytp-ad-image-overlay
-www.youtube.com##.ytp-ad-module.video-ads
-www.youtube.com##.ytp-ad-overlay-container
-
 www.zhihu.com##div.TopstoryItem-isRecommend.TopstoryItem--advertCard.TopstoryItem.Card > .Pc-feedAd-container
 
 zn50.com##.a_mu
