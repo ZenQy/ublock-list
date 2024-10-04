@@ -76,6 +76,11 @@ oschina.net##div[class*=-ad]
 oschina.net##div[class*=_ad]
 oschina.net##div[data-traceid*=_ad]
 oschina.net/img/hot3.png$image
+www.oschina.net##.entry-item
+www.oschina.net##.item-title.news-item.item
+www.oschina.net##.hot-news
+www.oschina.net##.item.item-title
+www.oschina.net##.other-articles-box__inner
 
 pc6.com###topbanner2
 
@@ -86,3 +91,7 @@ xda-developers.com###adhesive_container
 zhihu.com##div.TopstoryItem-isRecommend.TopstoryItem--advertCard.TopstoryItem.Card > .Pc-feedAd-container
 
 zn50.com##.a_mu
+
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+www.v2ex.com###Main > style + div.sep20 + div.box
