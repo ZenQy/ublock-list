@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[uBlock Origin]
 ! title: 自用ublock过滤规则
 ! Version: 20241020
 ! Expires: 2 days
