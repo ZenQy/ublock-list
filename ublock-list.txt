@@ -3,3 +3,12 @@
 ! Version: 20241020
 ! Expires: 2 days
 ! Homepage: https://github.com/ZenQy/ublock-list
+
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.oschina.net##.entry-item
+www.oschina.net##.item-title.news-item.item
+www.oschina.net##.hot-news
+www.oschina.net##.item.item-title
+www.oschina.net##.other-articles-box__inner
+www.v2ex.com###Main > style + div.sep20 + div.box
+
