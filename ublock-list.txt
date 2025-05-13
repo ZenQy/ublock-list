@@ -11,4 +11,6 @@ www.oschina.net##.hot-news
 www.oschina.net##.item.item-title
 www.oschina.net##.other-articles-box__inner
 www.v2ex.com###Main > style + div.sep20 + div.box
+bing.com###b_results > li:has(cite:has-text(csdn.net))
+google.com##div.MjjYud:has(cite:has-text(csdn.net))
 
